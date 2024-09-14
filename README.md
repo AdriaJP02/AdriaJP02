@@ -21,7 +21,7 @@ I am a Mathematical Engineer in Data Science with a passion for Data Science, Da
 <td width="50%">
 <h3 align="center">BosCoop</h3>
 <div align="center">
-<a href="https://github.com/LauraGuardiaVela/FINAL-PROJECT-BOSCOOP" target="_blank"><img src="https://i.imghippo.com/files/v6clu1726329819.jpg" alt="" border="0"></a>
+<a href="https://github.com/LauraGuardiaVela/FINAL-PROJECT-BOSCOOP" target="_blank"><img src="https://i.imghippo.com/files/tQx7C1726332877.png" alt="" border="0"></a>
 <p>
 <a href="https://github.com/LauraGuardiaVela/FINAL-PROJECT-BOSCOOP" target="_blank">
 <img src="https://img.shields.io/badge/CODE-e2d0e9?style=for-the-badge&logo=github&logoColor=black">
