@@ -1,6 +1,6 @@
 ## Hi, I'm Adrià Julià Parada👋
 
-<img src="https://imgur.com/a/ZIECjwf">
+<img src="https://www.imghippo.com/i/4pD4M1726322712.png">
 
 ## About me
 
