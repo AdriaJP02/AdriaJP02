@@ -1,6 +1,6 @@
 ## Hi, I'm Adrià Julià Parada👋
 
-<img src="https://www.imghippo.com/i/4pD4M1726322712.png">
+<img src="https://i.imghippo.com/files/4pD4M1726322712.png" alt="" border="0">
 
 ## About me
 
