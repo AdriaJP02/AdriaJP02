@@ -16,7 +16,7 @@
 ## 🛠️ Skills & Technologies
 - **Programming Languages**
   <br>
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Matlab](https://img.shields.io/badge/Matlab-%230C55A5.svg?style=for-the-badge&logo=matlab&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23150458.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Matlab](https://img.shields.io/badge/Matlab-%230C55A5.svg?style=for-the-badge&logo=matlab&logoColor=white)
 - **Analytics & Visualization Tools**
   <br>
   ![Tableau](https://img.shields.io/badge/Tableau-%233F4F75.svg?style=for-the-badge&logo=tableau&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23CB3837.svg?style=for-the-badge&logo=streamlit&logoColor=white)
@@ -34,7 +34,7 @@
   ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Oracle SQL Developer](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 - **Environments**
   <br>
-  ![Unity](https://img.shields.io/badge/Unity-%23121011.svg?style=for-the-badge&logo=unity&logoColor=white) ![Visual Studio](https://img.shields.io/badge/VisualStudio-%81568D.svg?style=for-the-badge&logo=vs&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-%230db7ed.svg?style=for-the-badge&logo=vscode&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-%F0F44F.svg?style=for-the-badge&logo=pycharm&logoColor=black) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+  ![Unity](https://img.shields.io/badge/Unity-%23121011.svg?style=for-the-badge&logo=unity&logoColor=white) ![Visual Studio](https://img.shields.io/badge/VisualStudio-%23150458.svg?style=for-the-badge&logo=vs&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-%230db7ed.svg?style=for-the-badge&logo=vscode&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-%FDEE21.svg?style=for-the-badge&logo=pycharm&logoColor=black) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 - **Design**
   <br>
   ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
