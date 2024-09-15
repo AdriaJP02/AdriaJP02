@@ -51,6 +51,9 @@
 <a href="https://github.com/LauraGuardiaVela/FINAL-PROJECT-BOSCOOP" target="_blank">
 <img src="https://img.shields.io/badge/CODE-e2d0e9?style=for-the-badge&logo=github&logoColor=black">
 </a>
+<a href="https://drive.google.com/uc?export=download&id=14b8OJbcYoXYiGI4jA80mXq66Q28Sw29V" target="_blank">
+<img src="https://img.shields.io/badge/Download%20ZIP-c493d6?style=for-the-badge&logo=google-drive&logoColor=white">
+</a>
 </p>
 <p>Interactive system using <span style="color:#e2d0e9;"><strong>HTC Vive</strong></span> and developed with <span style="color:#e2d0e9;"><strong>Unity</strong></span> to promote cooperation between users in virtual environments. There are mini-games that activate different abilities of the human body, and users have to work together to complete the game.</p>
 </div>
