@@ -46,7 +46,7 @@
 <td width="50%">
 <h3 align="center">BosCoop</h3>
 <div align="center">
-<a href="https://github.com/LauraGuardiaVela/FINAL-PROJECT-BOSCOOP" target="_blank"><img src="https://www.imghippo.com/i/m7RTR1726360644.png" alt="" border="0"></a>
+<a href="https://github.com/LauraGuardiaVela/FINAL-PROJECT-BOSCOOP" target="_blank"><img src="https://i.imghippo.com/files/m7RTR1726360644.png" alt="" border="0"></a>
 <p>
 <a href="https://github.com/LauraGuardiaVela/FINAL-PROJECT-BOSCOOP" target="_blank">
 <img src="https://img.shields.io/badge/CODE-e2d0e9?style=for-the-badge&logo=github&logoColor=black">
