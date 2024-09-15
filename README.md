@@ -81,6 +81,46 @@
 <br>
 
 
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">FastFootLand</h3>
+<div align="center">
+<a href="https://www.youtube.com/watch?v=yOjzqG45lYI&t=32s" target="_blank"><img src="https://i.imghippo.com/files/AQjd21726419563.png" alt="" border="0"></a>
+<p>
+<a href="https://www.youtube.com/watch?v=yOjzqG45lYI&t=32s" target="_blank">
+<img src="https://img.shields.io/badge/YOUTUBE-ebc6d4?style=for-the-badge&logo=youtube&logoColor=black">
+</a>
+<a href="https://drive.google.com/uc?export=download&id=1rq0hpY_gqRnOPZCpoCMAUqFKYbzMDQLM" target="_blank">
+<img src="https://img.shields.io/badge/Download%20ZIP-e47ba3?style=for-the-badge&logo=c&logoColor=white">
+</a>
+</p>
+<p>Game developed with C that deals with a character who is visiting Willy Wonka's factory and suddenly finds himself in the world of candy. He will have some time to return to the real world.</p>
+</div>
+                                                                                      
+</td>
+
+<td width="50%">
+               <br>
+<h3 align="center">Asterix & Obelix: Road to God</h3>
+<div align="center">                                       
+<a href="https://github.com/jahanzeb1000/asterixiobelix" target="_blank"><img src="https://i.imghippo.com/files/Q2ChP1726419373.png" alt="" border="0"></a>
+<br>
+<p>
+<a href="https://github.com/jahanzeb1000/asterixiobelix" target="_blank">
+<img src="https://img.shields.io/badge/CODE-52a5f6?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<a href="https://drive.google.com/uc?export=download&id=14b8OJbcYoXYiGI4jA80mXq66Q28Sw29V" target="_blank">
+<img src="https://img.shields.io/badge/Download%20ZIP-2a6ec2?style=for-the-badge&logo=unity&logoColor=white">
+</a>
+</p>
+<p>Narrative videogame developed with <span style="color:#e2d0e9;"><strong>Unity</strong></span> to make playable the film "The Twelve Tasks of Asterix" and adapt its sense of humour. There are several mini-games inspired by the twelve tasks of Asterix. The vignettes are passed on with the "P" button.</p>
+</div>                                                             
+</table>                                                                                 
+</div>
+<br>
+
+
 
 ## 📫 Contact
 - **Email**: adriajuliaparada2@gmail.com
