@@ -57,10 +57,12 @@
 </a>
 </p>
 <p>A <span style="color:#4682b4;"><strong>Data Analytics</strong></span> project that studies the potential countries where a health company can expand through the <span style="color:#73ccd0;"><strong>economic feasibility</strong></span> and <span style="color:#bee9e1;"><strong>public health</strong></span>. <strong>Streamlit</strong> application to predict the GDP and Life Expectancy of countries depending on their characteristics. Deeper visual analysis using <strong>Tableau</strong>.</p>
-</div>
-                                                                                      
+</div>                                                                                    
 </td>
 <br>
+</table>
+
+<table>
 <tr>
     <td width="50%" align="center">
       <h3>Multiple Linear Regression</h3>
