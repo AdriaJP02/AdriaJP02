@@ -80,7 +80,7 @@
     <td width="50%" align="center">
       <h3>Chatbot</h3>
       <a href="https://github.com/laura-guardia-vela/Chatbot" target="_blank">
-        <img src="https://i.imghippo.com/files/9zT7v1728670613.jpg" alt="Multiple Linear Regression Image" width="70%" />
+        <img src="https://i.imghippo.com/files/9zT7v1728670613.jpg" alt="Chatbot Image" width="60%" />
       </a>
       <p>
         <a href="https://github.com/laura-guardia-vela/Chatbot" target="_blank">
