@@ -44,6 +44,47 @@
 <table>
 <tr>
 <td width="50%">
+<h3 align="center">Analysis of LFE and GDP of Countries</h3>
+<div align="center">                                       
+<a href="https://github.com/JorgeMRPOO/AV-Projecte-Final" target="_blank"><img src="https://i.imghippo.com/files/UYoa61726331893.png" alt="" border="0"></a>
+<br>
+<p>
+<a href="https://github.com/JorgeMRPOO/AV-Projecte-Final" target="_blank">
+<img src="https://img.shields.io/badge/CODE-73ccd0?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://drive.google.com/drive/folders/1_9K-Oz90sjbIBd2AIl9LMijXJu23b062?usp=sharing" target="_blank">
+<img src="https://img.shields.io/badge/TABLEAU-bee9e1?style=for-the-badge&logo=tableau&logoColor=black">
+</a>
+</p>
+<p>A <span style="color:#4682b4;"><strong>Data Analytics</strong></span> project that studies the potential countries where a health company can expand through the <span style="color:#73ccd0;"><strong>economic feasibility</strong></span> and <span style="color:#bee9e1;"><strong>public health</strong></span>. <strong>Streamlit</strong> application to predict the GDP and Life Expectancy of countries depending on their characteristics. Deeper visual analysis using <strong>Tableau</strong>.</p>
+</div>
+                                                                                      
+</td>
+
+<td width="50%">
+               <br>
+<h3 align="center">Animalia</h3>
+<div align="center">                                       
+<a href="https://github.com/AdriaJP02/Animalia-TTM-Project" target="_blank"><img src="https://i.imghippo.com/files/jq5fl1728678037.png" alt="" border="0"></a>
+<br>
+<p>
+<a href="https://drive.google.com/file/d/1a9psHO2EHbwON3D7BCuOylEkHfDrlKnI/view?usp=sharing" target="_blank">
+<img src="https://img.shields.io/badge/YOUTUBE-2a6ec2?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
+<a href="https://github.com/AdriaJP02/Animalia-TTM-Project" target="_blank">
+<img src="https://img.shields.io/badge/CODE-52a5f6?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
+<p> A project that creates a machine learning model to classify animal sounds using a dataset from Freesound. It also includes dataset creation, audio processing, model development, and frontend development using <strong>Streamlit</strong>.</p>
+</div>                                                             
+</table>                                                                                 
+</div>
+<br>
+
+
+<table>
+<tr>
+<td width="50%">
 <h3 align="center">BosCoop</h3>
 <div align="center">
 <a href="https://github.com/LauraGuardiaVela/FINAL-PROJECT-BOSCOOP" target="_blank"><img src="https://i.imghippo.com/files/m7RTR1726360644.png" alt="" border="0"></a>
@@ -59,28 +100,6 @@
 
 <td width="50%">
                <br>
-<h3 align="center">Analysis of LFE and GDP of Countries</h3>
-<div align="center">                                       
-<a href="https://github.com/JorgeMRPOO/AV-Projecte-Final" target="_blank"><img src="https://i.imghippo.com/files/UYoa61726331893.png" alt="" border="0"></a>
-<br>
-<p>
-<a href="https://github.com/JorgeMRPOO/AV-Projecte-Final" target="_blank">
-<img src="https://img.shields.io/badge/CODE-73ccd0?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://drive.google.com/drive/folders/1_9K-Oz90sjbIBd2AIl9LMijXJu23b062?usp=sharing" target="_blank">
-<img src="https://img.shields.io/badge/TABLEAU-bee9e1?style=for-the-badge&logo=tableau&logoColor=black">
-</a>
-</p>
-<p>A <span style="color:#4682b4;"><strong>Data Analytics</strong></span> project that studies the potential countries where a health company can expand through the <span style="color:#73ccd0;"><strong>economic feasibility</strong></span> and <span style="color:#bee9e1;"><strong>public health</strong></span>. <strong>Streamlit</strong> application to predict the GDP and Life Expectancy of countries depending on their characteristics. Deeper visual analysis using <strong>Tableau</strong>.</p>
-</div>                                                             
-</table>                                                                                 
-</div>
-<br>
-
-
-<table>
-<tr>
-<td width="50%">
 <h3 align="center">FastFootLand</h3>
 <div align="center">
 <a href="https://www.youtube.com/watch?v=yOjzqG45lYI&t=32s" target="_blank"><img src="https://i.imghippo.com/files/AQjd21726419563.png" alt="" border="0"></a>
@@ -93,9 +112,13 @@
 </a>
 </p>
 <p>Game developed with C that deals with a character who is visiting Willy Wonka's factory and suddenly finds himself in the world of candy. He will have some time to return to the real world.</p>
+</div>                                                             
+</table>                                                                                 
 </div>
-                                                                                      
-</td>
+<br>
+
+<table>
+<tr>
 
 <td width="50%">
                <br>
@@ -116,8 +139,6 @@
 </table>                                                                                 
 </div>
 <br>
-
-
 
 ## 📫 Contact
 - **Email**: adriajuliaparada2@gmail.com
