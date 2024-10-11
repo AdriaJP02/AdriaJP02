@@ -22,7 +22,7 @@
   ![Tableau](https://img.shields.io/badge/Tableau-%233F4F75.svg?style=for-the-badge&logo=tableau&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23CB3837.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 - **Frameworks, Platforms & Libraries**
   <br>
-  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![DialogFlow](https://img.shields.io/badge/DialogFlow-%23FF6F00.svg?style=for-the-badge&logo=dialogflow&logoColor=white)
 - **Collaborative Development Tools**
   <br>
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
@@ -37,7 +37,8 @@
   ![Unity](https://img.shields.io/badge/Unity-%23121011.svg?style=for-the-badge&logo=unity&logoColor=white) ![Visual Studio](https://img.shields.io/badge/VisualStudio-%23150458.svg?style=for-the-badge&logo=vs&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-%230db7ed.svg?style=for-the-badge&logo=vscode&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-%FDEE21.svg?style=for-the-badge&logo=pycharm&logoColor=black) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 - **Design**
   <br>
-  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ## 📊 Data Science Projects
 
@@ -79,7 +80,7 @@
     <td width="50%" align="center">
       <h3>Chatbot</h3>
       <a href="https://github.com/laura-guardia-vela/Chatbot" target="_blank">
-        <img src="https://i.imghippo.com/files/9zT7v1728670613.jpg" alt="Multiple Linear Regression Image" width="80%" />
+        <img src="https://i.imghippo.com/files/9zT7v1728670613.jpg" alt="Multiple Linear Regression Image" width="70%" />
       </a>
       <p>
         <a href="https://github.com/laura-guardia-vela/Chatbot" target="_blank">
