@@ -142,8 +142,6 @@
 </a>
 </p>
 <p>Game developed with C that deals with a character who is visiting Willy Wonka's factory and suddenly finds himself in the world of candy. He will have some time to return to the real world.</p>
-</div>                                                             
-</table>                                                                                 
 </div>
 <td width="50%">
                <br>
